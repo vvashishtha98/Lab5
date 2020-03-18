@@ -1,0 +1,40 @@
+.background
+{
+	background-image: url("galaxy.jpg");
+	background-position: center;
+	background-size: cover;
+}
+
+body
+{
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+}
+
+h1
+{
+	text-align: center;
+}
+
+#data
+{
+	border: 1px solid #ddd;
+	padding: 6px;
+	border-collapse: collapse;
+	width: 55%;
+}
+
+th
+{
+	border: 1px solid #ddd;
+	padding: 6px;
+	text-align: left;
+	color: white;
+	height: 50px;
+}
+
+img 
+{
+	height: 200px;
+	width: 200px;
+}
